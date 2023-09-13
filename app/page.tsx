@@ -1,3 +1,5 @@
+"use client";
+
 import { Libre_Bodoni } from "next/font/google";
 import Image from "next/image";
 
